@@ -2,6 +2,7 @@
 //singleton is created when a object is created by constructor
 //object.create this way is used to create a object through constructor.
 
+// ************** this is object literals*
 const mysym = Symbol("key1")// symbol datatype 
 
 const jsuser ={
